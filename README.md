@@ -3,7 +3,10 @@
 *[⌨️ (12:32:57) Lesson 8: HTML / Javascript Fund Me (Full Stack / Front End)](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=45177s)*
 
 
-This is a minimalistic example what you can find in the [metamask docs](https://docs.metamask.io/guide/create-dapp.html#basic-action-part-1).
+This is a minimalistic example what
+you can find in the [metamask docs](https://docs.metamask.io/guide/create-dapp.html#basic-action-part-1).
+ <img width="1440" alt="Screenshot 2022-06-04 at 11 44 44 PM" src="https://user-images.githubusercontent.com/66620586/172070197-a5fd4b2c-3603-4641-a0c1-c5d8c2e87257.png">
+
 
 # Requirements
 
